@@ -1,0 +1,120 @@
+*{
+    padding: 5px;
+    margin: auto;
+    box-sizing: border-box;
+
+}
+.imagen0{
+  width: 12%;
+  height: 12%;
+}
+#menu ul {
+    list-style: none;
+    margin: 16px;
+    padding: 0;
+  }
+  #menu li {
+    display: inline-block;
+  }
+  #menu a {
+    display: block;
+    padding: 6px 16px;
+    background-color: #e0e0e0;
+    color: #3c3c3c;
+    text-decoration: none;
+    border-left: 4px solid #2a5e55;
+    border-radius: 0 2px 2px 0;
+    box-shadow: 0px 1px 1px rgba(128, 128, 128, 0.45);
+  }
+    #menu a:hover {
+      color: #000;
+      box-shadow: 0px 2px 2px rgba(128, 128, 128, 0.45);
+    }
+    #menu ul {
+      list-style: none;
+      margin: 16px;
+      padding: 0;
+    }
+    #menu li {
+      display: inline-block;
+    }
+    #menu a {
+      display: block;
+      padding: 6px 16px;
+      background-color: #e0e0e0;
+      color: #3c3c3c;
+      text-decoration: none;
+      border-left: 4px solid #2a5e55;
+      border-radius: 0 2px 2px 0;
+      box-shadow: 0px 1px 1px rgba(128, 128, 128, 0.45);
+    }
+      #menu a:hover {
+        color: #000;
+        box-shadow: 0px 2px 2px rgba(128, 128, 128, 0.45);
+      }
+.imagen1{
+    margin-left: auto;
+    margin-right:auto;
+    width: 5%;
+    height: 9%;
+}
+
+body{
+      background-color: rgb(209, 221, 215);
+      color: rgb(0, 0, 0);
+
+}
+
+
+header{
+    text-align:left;
+    padding: 3px;
+    border: 3px double rgb(255, 255, 255);
+    margin: 3px;
+}
+.imagen2{
+    margin-left: auto;
+    margin-right:auto;
+    width: 40%;
+    height: 40%;
+}
+
+.menu {
+  width: 50%;
+  padding: 10px;
+  overflow: hidden;
+  box-sizing: border-box;
+  background-color: rgb(16, 26, 112);
+  margin: 10px;
+}
+.imagen3{
+  margin-left: auto;
+  margin-right:auto;
+  width: 35%;
+  height: 35%;
+}
+.imagen4{
+  margin-left: auto;
+  margin-right:auto;
+  width: 36%;
+  height: 40%;
+}
+.imagen5{
+  margin-left: auto;
+  margin-right:auto;
+  width: 46%;
+  height: 45%;
+}
+.imagen6{
+  margin-left: auto;
+  margin-right:auto;
+  width: 40%;
+  height: 40%;
+}
+.imagen7{
+  margin-left: auto;
+  margin-right:auto;
+  width: 50%;
+  height: 50%;
+}
+
